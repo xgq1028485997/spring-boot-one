@@ -4,3 +4,5 @@
 /eureka-service/eureka-client-two/target/
 /eureka-service/eureka-server-one/target/
 /eureka-service/eureka-server-two/target/
+.idea
+*.iml
